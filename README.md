@@ -2,6 +2,8 @@
 
 A Laravel mini-system for creating retail orders, tracking inventory, customer history, and low-stock reporting.
 
+The original development master prompt is available in [prompts/MASTER_PROMPT.md](prompts/MASTER_PROMPT.md).
+
 ## Tech stack
 
 - PHP 8.5
